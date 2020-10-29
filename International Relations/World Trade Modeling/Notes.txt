@@ -1,0 +1,72 @@
+MODELS OF INTERNATIONAL TRADE - NOTES
+
+
+Types of models seen
+> Gravity models / study of trade frictions
+> Application of (statistical) network analysis to trade networks
+> Regression (correlation) models between GDP and trade
+> Network wealth/asset exchange models
+  - Similar flow concept
+  - Stochastic / use noise
+
+
+*should cite this
+
+
+Wikipedia - https://en.wikipedia.org/wiki/Gross_domestic_product#Expenditure_approach
+> The expenditure method of calculating GDP takes into account net exports (exports-imports)
+> So by definition trade has a causal effect on GDP
+
+*Lou - How Much of China and World GDP Has The Coronavirus Reduced? (2020)
+> Uses input-output analysis to determine labor supply shock to China's GDP from COVID-19
+> Then calculates effect of that on other countries' GDPs
+
+*Hokkanen - Structure and Properties of Trade Networks
+> Applied common graph metrics to the international trade network (ITN)
+> Found correlations between some of these metrics and GDP
+
+Bhattacharya - ITN Weighted Network Analysis and Modeling
+> Not well written
+> Examines distribution of bilateral trade flows
+> Some relationship between trade volume and GDP exists
+
+Fagiolo - On the Topological Properties of the World Trade Web (2007)
+Fagiolo - Evolution of the world trade web - Weighted-network analysis (2009)
+Fagiolo - WTW - Topological properties, dynamics and evolution (2008)
+> Application of (statistical) network theory to trade networks
+> No conclusions with real world significance
+
+*Benedictis - The World Trade Network (2009)
+> Summarizes history of network analysis for international trade, which dates back to the 1940s
+> Analyzes the ITN over time using common network statistics
+
+Garlaschelli - Structure and Evolution of the World Trade Network (2007)
+> A fitness function between two nodes indicates likelihood of connection
+> This fitness function is related to GDP
+> No shit...it's called a gravity model
+
+**Garlaschelli - Interplay between Topology and Dyamics in the WTN
+> Discusses effects of GDP on the trade network, and vice versa
+> For the latter, hypothesizes a stochastic network wealth exchange model as the cause of GDP distribution
+
+Almog - Enhanced Gravity Model of Trade
+> probability distribution related to bilateral trade volume
+> tries to improve upon gravity models
+
+Zestos - Trade and GDP Growth - Causal Relations (2002)
+> Time series causality tests between trade and growth, for the US and Canada
+
+Coquide - Crisis Contagion in the World Trade Network (2020)
+> Models a contagion doomsday scenario using PageRank-CheiRank
+> Considers countries and products
+
+Ermann - Google Matrix of the World Trade Network (2011)
+> Applies PageRank-CheiRank to the ITN
+> Result sorts countries into three tiers
+
+Algarra - A stochastic generative model of the World Trade Network
+> Stochastic network formation model that approximates empirial ITN data
+
+Krapivsky - Wealth Distributions in Asset Exchange Models (2010)
+> 
+> "neglects the possibility of wealth growth...by both agents benefiting in exchanges."
